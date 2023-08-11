@@ -1,0 +1,1 @@
+web: streamlit run Oura_Ring_LinkedIn_Post.py
