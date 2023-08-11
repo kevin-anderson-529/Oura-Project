@@ -1,1 +1,1 @@
-web: streamlit run Oura_Ring_LinkedIn_Post.py
+web: sh setup.sh && streamlit run Oura_Ring_1.py
